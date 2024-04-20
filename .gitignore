@@ -1,0 +1,29 @@
+## https://raw.githubusercontent.com/github/gitignore/main/Go.gitignore
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/cmd/nc/nc
+
+# Go workspace file
+go.work
+
+## https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Translations
+*.mo
+*.pot
+
+# Environments
+venv/
+
+# PyCharm
+.idea/
